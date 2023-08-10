@@ -1,0 +1,28 @@
+{
+    "width": 200,
+    "height": 200,
+    "assets": [
+        {
+            "kind": "image",
+            "variants": [
+                "./bg-1.png",
+                "./bg-2.png"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "kind": "image",
+            "variants": [
+                "./a.png",
+                "./b.png"
+            ],
+            "position": {
+                "x": 0,
+                "y": 0
+            }
+        }
+    ]
+}
