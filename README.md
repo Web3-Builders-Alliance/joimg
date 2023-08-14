@@ -1,3 +1,5 @@
+deprecated in favor of [https://github.com/Web3-Builders-Alliance/fastlips](https://github.com/Web3-Builders-Alliance/fastlips)
+
 # joimg
 Outputs an Image Collection combining layouts
 
